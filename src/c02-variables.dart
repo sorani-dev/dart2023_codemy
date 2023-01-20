@@ -64,7 +64,7 @@ void main() {
 /**
  * Output:
  * 
- Simon
+Simon
 Simon
 42
 42
