@@ -26,3 +26,14 @@ void main() {
   dynamic fullName = "John Doe";
   print("Dynamic: $fullName");
 }
+/**
+ * Output:
+ * 
+ * 
+String: Simon
+Integer: 42
+Double: 3.1459
+Boolean: Can vote: true
+Boolean: Can drive: false
+Dynamic: John Doe
+ */

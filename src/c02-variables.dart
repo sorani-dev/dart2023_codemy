@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   /* Many ways to declare a variable:
   1/ VARIABLES: 
@@ -62,3 +60,17 @@ void main() {
 
   print(myName); // Display Simon
 }
+
+/**
+ * Output:
+ * 
+ Simon
+Simon
+42
+42
+Tsunade
+John Doe
+J
+null
+Simon
+ */
