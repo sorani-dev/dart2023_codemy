@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   /**
    * Convert String, int and double
